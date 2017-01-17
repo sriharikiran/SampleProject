@@ -1,1 +1,3 @@
 ome text goes here. this is the second time I am trying to understand the branching in github
+
+Adding a new line here in sampleprojectbranch2
