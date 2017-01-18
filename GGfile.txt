@@ -1,1 +1,3 @@
 some text goes in gg file to be viewed on gitk&
+
+adding one more line to ggfile
