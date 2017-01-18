@@ -1,4 +1,6 @@
 # SampleProject
 Sample Project for testing
 
-Adding some text here.. 
+
+
+Removed a line called adding some text here..
